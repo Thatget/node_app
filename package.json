@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Thatget/node_app/issues"
   },
-  "homepage": "https://github.com/Thatget/node_app#readme"
+  "homepage": "https://github.com/Thatget/node_app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
